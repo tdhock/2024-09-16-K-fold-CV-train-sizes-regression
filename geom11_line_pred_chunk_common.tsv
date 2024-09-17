@@ -1,0 +1,5 @@
+size	colour	key	group	showSelectedlegendsizecolour
+4	#FF0000	featureless test	1	featureless
+4	#FF0000	featureless train	2	featureless
+2	#00BFFF	rpart test	3	rpart
+2	#00BFFF	rpart train	4	rpart
